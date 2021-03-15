@@ -4,5 +4,5 @@ configProperties:
 application:
   name: demo
   manifestType: kustomizeGit
-  resourcePath: ["deploy/demo"]
+  resourcePath: ["deploy/demo/base"]
   services: []
