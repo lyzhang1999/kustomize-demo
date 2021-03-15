@@ -1,0 +1,8 @@
+configProperties:
+  version: v2
+
+application:
+  name: demo
+  manifestType: kustomizeGit
+  resourcePath: ["deploy/demo"]
+  services: []
